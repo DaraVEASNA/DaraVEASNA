@@ -85,6 +85,10 @@ src="https://img.shields.io/twitter/follow/daraa_veasna?logo=twitter&style=for-t
 
 <a href="http://www.github.com/daraaveasna"><img src="https://github-readme-streak-stats.herokuapp.com/?user=daraaveasna&stroke=ffffff&background=181824&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
+<img src="https://raw.githubusercontent.com/	daraaveasna/	daraaveasna/blob/output/snake.svg" alt="Snake animation" />
+
+###
+
 ### Support Me
 
 <a href="https://www.buymeacoffee.com/daraveasna"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
