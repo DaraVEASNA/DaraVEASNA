@@ -14,6 +14,9 @@ I am Dara, currently pursuing my bachelor's degree majoring in computer science 
 * 🧠  I'm learning everything Javascript
 * ⚡  Enjoy the little things, for one day you may look back and realize they were the big things.
 
+![](https://komarev.com/ghpvc/?username=DaraVEASNA)
+![](https://komarev.com/ghpvc/?username=DaraVEASNA&label=PROFILE+VIEWS)
+
 <a href="https://www.twitter.com/daraa_veasna" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/daraa_veasna?logo=twitter&style=for-the-badge&color=0891b2&labelColor=181824"
 /></a>
