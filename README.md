@@ -12,11 +12,14 @@
 src="https://img.shields.io/twitter/follow/daraa_veasna?logo=twitter&style=for-the-badge&color=0891b2&labelColor=181824"
 /></a>
 </div>
-<h4 align="right">
-<img  src="https://c.tenor.com/SOVMSXmWB1kAAAAi/tony-star-jumping.gif" width="80">
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<div align="center">
+<img  src="https://media.giphy.com/media/CgCaB0B0zYp4kVhNPf/giphy.gif" width="123">
+</div>
+<h4 align="center">
+<!-- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </h4>
+</div>
 
 I am Dara, a dedicated computer science student at the Institute of Technology of Cambodia, pursuing my engineering's degree. As a tech enthusiast and open-source advocate, I am passionate about exploring innovative and disruptive ideas. I am always eager to collaborate on projects and connect with like-minded individuals. Feel free to learn more about me and connect with me here. Let's create something amazing together!
 
